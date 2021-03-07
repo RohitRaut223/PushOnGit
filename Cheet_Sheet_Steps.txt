@@ -1,0 +1,4 @@
+Steps:-->
+
+1). create files in  folder.
+2).initialize github in that folder.
